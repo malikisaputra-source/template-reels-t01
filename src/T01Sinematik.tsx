@@ -1,5 +1,5 @@
 // Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id
-// Lisensi MIT + syarat kredit-maliki (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
+// Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
 // T01 v2 · Panggung Kutipan Sinematik — dibangun ulang mengikuti ritme reel acuan detik per detik (9 Nov 2026).
 // Struktur: layar 9:16 di atas podium (bingkai tetap) + 6 adegan di dalam layar:
 // 1 tokoh zoom + kata raksasa yang "ditembus" kamera · 2 tokoh geser kiri, teks kanan · 3 objek di atas pita lengkung

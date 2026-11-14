@@ -2,7 +2,7 @@
   "name": "template-reels-t01-panggung-kutipan-sinematik",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render T01Sinematik out/video.mp4",
